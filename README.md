@@ -1,5 +1,7 @@
 # React Example - Product Compare Page :tada: :fireworks:
 
+This was taken from https://github.com/Rhymond/product-compare-react.  We made a copy to update the node-sass plugin version for our version of node.
+
 Product comparison page build using **React** + **Redux** + **Bootstrap** + **SASS**
 
 ![Screenshot](https://s8.postimg.cc/fdfsvumkl/Screen_Shot_2018-07-05_at_16.36.17.png)
